@@ -14,7 +14,7 @@ def download_file(url, name="video.mp4"):
                 f.write(chunk)
 
 
-TOKEN = "Your Token"
+TOKEN = "Your Bot's Token"
 # This is my image link
 IMAGE_LINK = "https://cdn.pixabay.com/photo/2016/01/08/11/49/text-1127657_1280.jpg"
 VIDEO_LINK = "https://vod-progressive.akamaized.net/exp=1605568547~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3260%2F17%2F441301097%2F1930591083.mp4~hmac=cef853112cef465d36e79e0563198af65d01a6bee1aa794c613c2fb84ccdb3fa/vimeo-prod-skyfire-std-us/01/3260/17/441301097/1930591083.mp4?filename=Creux+De+Van+-+45150.mp4"
