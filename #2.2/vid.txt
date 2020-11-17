@@ -1,0 +1,7 @@
+✔Sending photos in Telegram with Python
+✔Sending videos in Telegram with Python
+✔Sending audio in Telegram with Python
+•Sending stickers in Telegram with Python
+
+
+Lets see if its working 
