@@ -14,7 +14,7 @@ def download_file(url, name="video.mp4"):
                 f.write(chunk)
 
 
-TOKEN = "1457645096:AAG99kw65Qli-MJ8xr3GHbAOUOFVHLj3a5U"
+TOKEN = "Your Bot's Token"
 # This is my image link
 IMAGE_LINK = "https://cdn.pixabay.com/photo/2016/01/08/11/49/text-1127657_1280.jpg"
 # This is my video link
