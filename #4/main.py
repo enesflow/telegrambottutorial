@@ -10,7 +10,7 @@ from PIL import Image  # pip install Pillow
 import requests  # pip install requests
 import pyshorteners  # pip install pyshorteners
 
-TOKEN = "Your Token"
+TOKEN = "Your Bot's Token"
 bot = telebot.TeleBot(TOKEN)
 reddit = praw.Reddit(client_id="HWx6IOXHME18RQ",
                      client_secret="0JLmRdAULEnQNX0LkuXpB1Mi_gXuTw",
