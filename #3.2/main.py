@@ -9,7 +9,7 @@ import telebot  # pip install pytelegrambotapi
 from PIL import Image  # pip install Pillow
 import requests  # pip install requests
 
-TOKEN = "1457645096:AAEA2EXmMz6o9ob4jxipmaeaHE9Cx1BHX1k"
+TOKEN = "Your Bot's Token"
 bot = telebot.TeleBot(TOKEN)
 reddit = praw.Reddit(client_id="HWx6IOXHME18RQ",
                      client_secret="0JLmRdAULEnQNX0LkuXpB1Mi_gXuTw",
